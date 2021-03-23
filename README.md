@@ -53,8 +53,8 @@ As stated above the goal of the project was three fold.  I have outlined and sum
 Together these factors were identified by the model as the 4 most predictive of churn.  To view a list of all the features used to develop this model see appendix in the pdf stored in this directory.  
 
 
-<h2>2. Current Features/ Services Ability to Prevent Churn:</h2>
-<img src="https://github.com/rgpihlstrom/Project3/blob/main/images/CountofEnrolledServices1.png"/>
+<h2>2. Reception of iPad2, Feedback On Launching at SXSW:</h2>
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IpadLaunch.png" width="800" height="300" />
 
 ### Observations:
 - Building on above, the feature "Service Count" was not identified as a top predictor of churn.  Graphs show equal usage/ participation in services between loyal vs. churn customers.  However, ***66% of churners are enrolled in 3 or more services.***
