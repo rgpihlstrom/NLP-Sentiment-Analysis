@@ -9,14 +9,19 @@ This project uses a Naive Bayes classifier & supervised learning methods to clas
 ## Project Context
 Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background.png" width="800" height="300" />
+The date is 2011, March 5.  One week before the big SXSW conference that is held every year bringing toether the best and brightest from tech, movies, film, other.  The event attracts the who's who's in entertainment and media and this year would serve as ground zero for the launching of the new iPad2.  ipad1 had been released just one year previous and the Apple team was looking to launch the iPad2 with a splash. 
 
 
-The following 4 features were most predictive of churn: <strong>Month to Month Contract, Electronic Billing, Customer Tenure, and Fiber Optics Internet Service.</strong>
+
+
+
 
 
 ## Business Problem
-Customer retention is a serious concern for all companies.  However, within the Telecommunications industry customer churn is of particular importance.  Fierce competition, along with difficult to differentiate product offerings makes retaining customers, on factors beyond price, very difficult.  Therefore, the historically thin profit margins of the past are only getting thinner, and placing greater than ever importance on customer retention.  In fact, a case study done by the Bain Company on the Telecom industry suggested a 5% increase in customer retention can lead to an increase in profits by 25%-95% (https://www.bain.com/client-results/focus-on-customer-engagement-to-improve-retention/).
-
+Given the above context the Brand Manager at Apple is interested in the following:
+-   **1. General Sentiment Surrounding the Apple Brand**
+-   **2. The Reception of the iPad2, and its Launching SXSW vs. Historical Approaches**
+-   **3. Capture Consumer Feedback as Potential Innovation Regarding Apples Product Portfolio**
 <br>
 
 #### The Current Situation: Telco is Losing 27% of Customers, 31% of Revenue to Churn.
@@ -98,7 +103,7 @@ My recommendations for innovation are focused on working to create additional so
 - Increasing Months with Telco - Examine ideas for Innovation around loyalty programs to incent longevity
 - Type of Internet Service -  Given the big difference in rate of churn across DSL vs. Fiber Optics churners, I believe there is something obviously wrong.  My recommendation is to engage in a competitive and or quality analysis to ensure the quality of the fiber optics lines are meeting customer expectations.
 
-
+The following 4 features were most predictive of churn: <strong>Month to Month Contract, Electronic Billing, Customer Tenure, and Fiber Optics Internet Service.</strong>
 
 ## Potential Impact on Revenue (Assuming 100% Detected Churn Reversal)
 <img src="https://github.com/rgpihlstrom/Project3/blob/main/images/RevenueRamifications2.png" width="600" height="400"/>
