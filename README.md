@@ -8,7 +8,7 @@ This project uses a Naive Bayes classifier & supervised learning methods to clas
 
 ## Project Context
 Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background1.png" width="800" height="300" />
 Its March 5, 2011.  It's also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightes from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform., the iPad2.  Apple is coming off a stream of successfulll launches and just launch its iPad1 approximately one year ago.  The Apple team is looking to outdue its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2. 
 
 
