@@ -2,9 +2,16 @@
 
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Title.png" width="800" height="300" />
 
-## Overview: 85% Churn Detection!
+## Overview: 86% Accuracy!
 
-This project uses Decision Tree and RandomForestClassifier supervised learning methods to classify the churn behavior of Telco's customers.  By analyzing past actual churn vs. no churn behavior, along with the respective customer attributes associated with each type of behavior, I developed a model that detected <b><ins>85%</ins></b> of Telco's churning customers.  The developed algorithm/“model” can be reused to identify future potential churning customers.  The following 4 features were most predictive of churn: <strong>Month to Month Contract, Electronic Billing, Customer Tenure, and Fiber Optics Internet Service.</strong>
+This project uses a Naive Bayes classifier & supervised learning methods to classify approximately 3300 tweats as either positive or negative based on words present within each tweet.  By leveraging and leanring from past pre-coded positive or negative tweets I was able to create a model that correctly classified each tweet with an accuracy score of <b><ins>86%.</ins></b>  The developed algorithm/“model” can be reused to classify future potenital tweets that are captured in a simliar fashion as employed on our training data.  The data was comes from CrowdFlower via <a href="https://data.world/crowdflower/brands-and-product-emotions">data.world</a>. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.  I focused this project on the positive and negative tweets associated with Apple/ Apple products.  The resulting dataset is the aforementioend 3300 classifed tweets.  
+
+
+
+
+
+
+The following 4 features were most predictive of churn: <strong>Month to Month Contract, Electronic Billing, Customer Tenure, and Fiber Optics Internet Service.</strong>
 
 
 ## Business Problem
