@@ -42,7 +42,7 @@ After several iterations, and a thourough cleansing of the data the trained mode
 As stated above the goal of the project was three fold.  I have outlined and summarized the results of each area of interest below:
 
 <h3>1. Overall Brand Sentiment Scores</h3>
-<img src="https://github.com/rgpihlstrom/Project3/blob/main/images/MostImportantFeatures2.png" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" width="800" height="300" />
 
 ### Observations:
 - Type of Contract – 89% of churning customers are in Month-to-Month contracts.
