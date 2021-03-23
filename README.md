@@ -1,6 +1,6 @@
 **Author**:[Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
 
-<img src="https://github.com/rgpihlstrom/Project3/blob/main/images/TitlePic1.png" width="600" height="400" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/TitlePic.png" width="600" height="400" />
 
 ## Overview: 85% Churn Detection!
 
