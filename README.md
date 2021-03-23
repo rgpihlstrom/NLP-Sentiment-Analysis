@@ -37,11 +37,11 @@ This project uses the Crisp DM methodology to generate and optimize the publishe
 After several iterations, and a thourough cleansing of the data the trained model obtained a training score of 87% and a testing score of <b><ins>(86%)</ins></b>.  This tight span is required to ensure the model was not overfitting and optimize the opportunity to reuse the model on future twitter data captured from SXSW attendess.
 
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Testscores1.png" width="800" height="300" />
-
-## Business Results/ Recommendations (Using 50% Threshold)
+<br>
+## Business Results/ Recommendations
 As stated above the goal of the project was three fold.  I have outlined and summarized the results of each area of interest below:
 
-<h3>1. Top Features Associated with Non Churn vs. Churn:</h3>
+<h3>1. Overall Brand Sentiment Scores</h3>
 <img src="https://github.com/rgpihlstrom/Project3/blob/main/images/MostImportantFeatures2.png" />
 
 ### Observations:
