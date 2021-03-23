@@ -4,11 +4,11 @@
 
 ## Overview: 86% Accuracy!
 
-This project uses a Naive Bayes classifier & supervised learning methods to classify approximately 3300 tweats as either positive or negative based on words present within each tweet.  By leveraging and leanring from past pre-coded positive or negative tweets I was able to create a model that correctly classified each tweet with an accuracy score of <b><ins>86%.</ins></b>  The developed algorithm/“model” can be reused to classify future potenital tweets that are captured in a simliar fashion as employed on our training data.  The data was comes from CrowdFlower via <a href="https://data.world/crowdflower/brands-and-product-emotions">data.world</a>. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.  I focused this project on the positive and negative tweets associated with Apple/ Apple products.  The resulting dataset is the aforementioend 3300 classifed tweets.  
+This project uses a Naive Bayes classifier & supervised learning methods to classify approximately 3300 tweats as either positive or negative based on words present within each tweet.  By leveraging and learning from past pre-coded positive or negative tweets I was able to create a model that correctly classified each tweet with an accuracy score of <b><ins>86%.</ins></b>  The developed algorithm/“model” can be reused to classify future potenital tweets that are captured in a simliar fashion as employed on our training data.  The data was comes from CrowdFlower via <a href="https://data.world/crowdflower/brands-and-product-emotions">data.world</a>. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.  I focused this project on the positive and negative tweets associated with Apple/ Apple products.  The resulting dataset is the aforementioend 3300 classifed tweets.  Furthermore, the data was captured via tweeter asnd was predominately from SXSW attendees from the year 2011. 
 
-
-
-
+## Project Context
+Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background.png" width="800" height="300" />
 
 
 The following 4 features were most predictive of churn: <strong>Month to Month Contract, Electronic Billing, Customer Tenure, and Fiber Optics Internet Service.</strong>
