@@ -61,8 +61,8 @@ Together these factors were identified by the model as the 4 most predictive of 
 Given that both groups are using services equally and the percent churn is not lower with increased service usage, I would deem that the services are not adequately helping to prevent customer churn.
 
 
-<h2>3. Opportunities for Innovation:</h2>
-<img src="https://github.com/rgpihlstrom/Project3/blob/main/images/Innovation3.png" />
+<h2>3. Consumer Feedback on Apple Products/ Opportunities for Innovation:</h2>
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBattery.png" width="800" height="300" />
 
 ### Observations:
 My recommendations for innovation are focused on working to create additional solutions around the 4 most predictive features associated with churn which were noted above in point #1.
