@@ -4,13 +4,13 @@
 
 ## Overview: 86% Accuracy!
 
-This project uses a Naive Bayes classifier & supervised learning methods to classify approximately 3300 tweats as either positive or negative based on words present within each tweet.  By leveraging and learning from past pre-coded positive or negative tweets I was able to create a model that correctly classified each tweet with an accuracy score of <b><ins>86%.</ins></b>  The developed algorithm/“model” can be reused to classify future potenital tweets that are captured in a simliar fashion as employed on our training data.  
+This project uses a Naive Bayes classifier & supervised learning methods to classify approximately 3300 tweets as either positive or negative based on words present within each tweet.  By leveraging and learning from past pre-coded positive or negative tweets I was able to create a model that correctly classified each tweet with an accuracy score of <b><ins>86%.</ins></b>  The developed algorithm/“model” can be reused to classify future potential tweets that are captured in a similar fashion as employed on our training data.  
 
 ## Project Context
 Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background1.png" width="800" height="300" />
 
-Its March 5, 2011.  It's also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightes from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform., the iPad2.  Apple is coming off a stream of successfulll launches and just launch its iPad1 approximately one year ago.  The Apple team is looking to outdue its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2. 
+Its March 5, 2011.  It's also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightest from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform., the iPad2.  Apple is coming off a stream of successful launches and just launch its iPad1 approximately one year ago.  The Apple team is looking to outdo its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2. 
 
 ## Business Problem
 Given the above context the Brand Manager at Apple is interested in the following:
@@ -22,10 +22,10 @@ Given the above context the Brand Manager at Apple is interested in the followin
  
 ## Data
 
-The data was comes from CrowdFlower via <a href="https://data.world/crowdflower/brands-and-product-emotions">data.world</a>. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.  I focused this project on the positive and negative tweets associated with Apple/ Apple products.  The resulting dataset is the aforementioend 3300 classifed tweets.  Furthermore, the data was captured via tweeter and was predominately from SXSW attendees from the year 2011. 
+The data was comes from CrowdFlower via <a href="https://data.world/crowdflower/brands-and-product-emotions">data.world</a>. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.  I focused this project on the positive and negative tweets associated with Apple/ Apple products.  The resulting dataset is the aforementioned 3300 classified tweets.  Furthermore, the data was captured via tweeter and was predominately from SXSW attendees from the year 2011. 
 
 ## Model Development Methods
-This project uses the Crisp DM methodology to generate and optimize the published model.  Crisp DM requires blending business strategy, availabled data, and modeling techniques best suited to the business drivers.  Model development is and was very iterative.  I began by doing secondary research around the the SXSW event along with getting a basic understanding of twitter data.  Along with the project requirements noted above, the following additional factors were considered during the modeling process:
+This project uses the Crisp DM methodology to generate and optimize the published model.  Crisp DM requires blending business strategy, available data, and modeling techniques best suited to the business drivers.  Model development is and was very iterative.  I began by doing secondary research around the SXSW event along with getting a basic understanding of twitter data.  Along with the project requirements noted above, the following additional factors were considered during the modeling process:
 -   **1. Data Imbalance**  The number of positive tweets is far greater than the negative tweets.  This creates a scenario that makes predicting negative tweets more difficult as there is not as many example words to train our model.  To overcome this challenge the SMOTE technique was used.  
 
 - **2. Selection of Supervised Learning Classifiers**  Initially I tried several different types of classifiers, and even developed a RNN classifier using Bi-directional LSTM.  Given longer training times and less than desired accuracy scores I opted to reduce the complexity of the data and changed my classifier to Naive Bayes.  Naive Bayes has shown historical strength in text classification and its fast training time makes it ideal for smaller dataset.
@@ -34,7 +34,7 @@ This project uses the Crisp DM methodology to generate and optimize the publishe
 
 
 ## Model Results (86% Detection)
-After several iterations, and a thourough cleansing of the data the trained model obtained a training score of 87% and a testing score of <b><ins>(86%)</ins></b>.  This tight span is required to ensure the model was not overfitting and optimize the opportunity to reuse the model on future twitter data captured from SXSW attendess.
+After several iterations, and a thorough cleansing of the data the trained model obtained a training score of 87% and a testing score of <b><ins>(86%)</ins></b>.  This tight span is required to ensure the model was not overfitting and optimize the opportunity to reuse the model on future twitter data captured from SXSW attendees.
 
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Testscores1.png" width="800" height="300" />
 <br>
@@ -73,19 +73,30 @@ My recommendations for innovation are focused on working to create additional so
 
 ## Summary 
 
-- **Develop Hard Numbers for the Cost of False Alarms** - In this hypothetical scenario we were not given the cost of falsely reaching out to a loyal customer with a particular outreach/ marketing program.  Once definitive numbers can be defined, we can reexamine our Threshold levels.
+- **Brand In Good Health!
+** - Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
 
+- **iPad2 Launch @ SXSW is a SUCCESS!
+** - Consumers received the launching of the Ipad2 with open arms and excitement
+
+- **Product Reviews Mostly Good!
+** - Product reviews mostly good with a few areas we can take back to R&D for review, especially in regards to the iPhone battery.
 
 ## Next Steps
 
-- **Develop Hard Numbers for the Cost of False Alarms** - In this hypothetical scenario we were not given the cost of falsely reaching out to a loyal customer with a particular outreach/ marketing program.  Once definitive numbers can be defined, we can reexamine our Threshold levels.
-- **Develop Threshold Evaluation Formular** - Once aligned on costs and savings associated with churning customers,  a formula can be created to optimize economics between Detection vs. False Alarm.
-- **Examine Detection vs. False Alarm Tradeoffs** - Given the high cost of customer acquisition vs. customer retention some additional analysis may reveal lowering our threshold from 50% to perhaps 40%, which would capture additional undetected churners.
-- **Examine Additional Classifiers** - For this project I settled on Random Forest, however, given advances in classifiers such as extreme boost and others, there may be additional opportunities to improve our churn detection rates.
-- **Put Model(s) Into Productions** - Once we have optimized our models and/or generated enough models to account for the wide variety of churn data, I would look to automate and deploy the models via a web-based interface and make it available to the marketing and or customer service teams.
+- **Broaden Dataset**
+** - Broaden our data set, beyond conference goers and twitter users.  This project was solely focused on the Twitter data captured from SXSW conference attendees.  There is an opportunity to scape product sites and use that data to drive business value.
+- **Examine Additional Classifiers/ Create Opportunity for Stacking Classifiers**
+** - In this project I focused on Naive Bayer classifiers, but there are additional classifiers that work well on text data such as Random Forest.  Creating additional models and combining the models to make predictions can improve accuracy.
+- **Finer Classification**
+** - Look to create classifiers that can accurately classify Negative, Neutral, Positive tweets vs just Positive and Negative in this project.  Potentially perform Topic Modeling.
+
+
+
 
 ## For More Information
 
 See the full analysis in the [Jupyter Notebooks](folder) or review our <a href="https://github.com/rgpihlstrom/Project3/blob/main/Presentation.pdf">Presentation</a>.
 
 For additional info, contact me here: [ Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
+
