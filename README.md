@@ -89,24 +89,18 @@ Based on these findings, we will make recommendations to the R&D teams for futur
 
 ## Summary 
 
-- <b><ins>Brand In Good Health! </ins></b>
-Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
+- <b><ins>Brand In Good Health! </ins></b> - Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
  
-- <b><ins>iPad2 Launch @ SXSW and selling at Conference is a SUCCESS! </ins></b>
-Consumers received the launching of the Ipad2 with open arms and excitement and the addition of the Pop-up store was well recieved.
+- <b><ins>iPad2 Launch @ SXSW and selling at Conference is a SUCCESS! </ins></b> - Consumers received the launching of the Ipad2 with open arms and excitement and the addition of the Pop-up store was well recieved.
 
-- <b><ins>Product Reviews Mostly Good! </ins></b>
-Product reviews were mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
+- <b><ins>Product Reviews Mostly Good! </ins></b> - Product reviews were mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
 
 ## Next Steps
-- <b><ins>Broaden our Data Beyond Conference Goers and Twitter Users</ins></b>
-** -  This project was solely focused on the Twitter data captured from SXSW conference attendees.  There is an opportunity to scrape other sites containing product data and use that data to drive business value.
+- <b><ins>Broaden our Data Beyond Conference Goers and Twitter Users</ins></b> - This project was solely focused on the Twitter data captured from SXSW conference attendees.  There is an opportunity to scrape other sites containing product data and use that data to drive business value.
 
-- <b><ins>Examine Additional Classifiers/ Create Opportunity for Stacking Classifiers</ins></b>
-** - In this project I focused on Naive Bayer classifiers, but there are additional classifiers that work well on text data such as Random Forest.  Creating additional models and combining the models to make predictions can improve accuracy.
+- <b><ins>Examine Additional Classifiers/ Create Opportunity for Stacking Classifiers</ins></b> - In this project I focused on Naive Bayer classifiers, but there are additional classifiers that work well on text data such as Random Forest.  Creating additional models and combining the models to make predictions can improve accuracy.
 
-- <b><ins>Finer Classification Models</ins></b>
-** - Look to create classifiers that can accurately classify Negative, Neutral, Positive tweets vs just Positive and Negative in this project.  Potentially perform Topic Modeling.
+- <b><ins>Finer Classification Models</ins></b> - Look to create classifiers that can accurately classify Negative, Neutral, Positive tweets vs just Positive and Negative in this project.  Potentially perform Topic Modeling.
 
 
 
