@@ -45,9 +45,11 @@ As stated above the goal of the project was three-fold.  I have outlined and sum
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" width="800" height="300" />
 
 ### Observations:
-- Generating Buzz – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands and as you can see the Apple brand and or an Apple product is being mentioned at a higher rate than other trending topics.
-- Sentiment Splits – From table 3 you can see how these tweets are classified.  As shown, 83% of the tweets containing/ pertaining to an Apple product are positive while only 17% are negative.
-- Key Tweets – As shown, you can see the general types of tweets regarding the brand in a positive manner.  However, if you review the negative sentiment tweets, a lot of the negative thoughts are coming from panelist presenting at the conference, which is causes retweets vs. genuinely organic negative sentiments toward the brand.
+- <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands and as you can see the Apple brand and or an Apple product is being mentioned at a higher rate than other trending topics.
+- 
+- <b><ins>Sentiment Splits</ins></b> – From table 3 you can see how these tweets are classified.  As shown, 83% of the tweets containing/ pertaining to an Apple product are positive while only 17% are negative.
+- 
+- <b><ins>Key Tweets</ins></b> – As shown, you can see the general types of tweets regarding the brand in a positive manner.  However, if you review the negative sentiment tweets, a lot of the negative thoughts are coming from panelist presenting at the conference, which is causes retweets vs. genuinely organic negative sentiments toward the brand.
 Overall, the brand seems to be being reflected in a positive tone.
 
 <h2>2. Reception of iPad2, Feedback on Launching at SXSW:</h2>
