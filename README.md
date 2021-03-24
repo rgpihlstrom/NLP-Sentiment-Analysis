@@ -63,11 +63,11 @@ Building on above, the reception of the iPad2 along with launching and selling p
 <br>
 
 <b><ins>Positive Word Cloud</ins></b>
-Words like “launch”, “new”,” smart” were used in reference to the acceptance of selling the first iPad2’s at the conference at the pop-up store
+ - Words like “launch”, “new”,” smart” were used in reference to the acceptance of selling the first iPad2’s at the conference at the pop-up store
 
 <br>
 <b><ins>Negative Word Cloud</ins></b>
-Words like “line”, “camera”,” out” were used in reference to the long lines at the pop-up store, along with some early feedback that the camera on the iPad2 may not be meeting customers expecations on quality.  Also the word “out” was used in reference to the temporary store running out of inventory.
+- Words like “line”, “camera”,” out” were used in reference to the long lines at the pop-up store, along with some early feedback that the camera on the iPad2 may not be meeting customers expecations on quality.  Also the word “out” was used in reference to the temporary store running out of inventory.
 
 
 <h2>3. Consumer Feedback on Apple Products/ Opportunities for Innovation:</h2>
