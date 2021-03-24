@@ -63,7 +63,7 @@ Overall, the brand seems to be being reflected in a positive tone.
 - <b><ins>Positive Word Cloud</ins></b>
 Words like “launch”, “new”,” smart” were used in reference to the acceptance of selling the first iPad2’s at the conference at the pop-up store
 <br>
-***Negative Word Cloud***
+- <b><ins>Negative Word Cloud</ins></b>
 Words like “line”, “camera”,” out” were used in reference to the long lines at the pop-up store, along with some early feedback that the camera on the iPad2 may not be at a quality level expected by consumers.  Also “out” was used in reference to the temporary store running out of inventory.
 
 
@@ -79,11 +79,11 @@ Based on this analysis I decided to do a deep dive on what is driving the higher
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBattery.png" width="800" height="300" />
 
 ### Observations:
-My recommendations for innovation are focused on working to create additional solutions around the 4 most predictive features associated with churn which were noted above in point #1.
-- Type of Contract – The goal is to reduce spontaneous churn.  If churn customers are not interested in a 1 year or a 2-year contract, perhaps there is a shorter term contract that can be created to induce trial.  Perhaps try 6 months or quarterly contracts.
-- Method of Bill Pay -  Examine quality and/ or customer experience required to pay bill electronically.  Look to make this process as easy as possible.
-- Increasing Months with Telco - Examine ideas for Innovation around loyalty programs to incent longevity
-- Type of Internet Service -  Given the big difference in rate of churn across DSL vs. Fiber Optics churners, I believe there is something obviously wrong.  My recommendation is to engage in a competitive and or quality analysis to ensure the quality of the fiber optics lines are meeting customer expectations.
+- <b><ins>Word Cloud</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands and as you can see the Apple brand and or an Apple product is being mentioned at a higher rate than other trending topics.
+
+- <b><ins>Key Tweets</ins></b> – From table 3 you can see how these tweets are classified.  As shown, 83% of the tweets containing/ pertaining to an Apple product are positive while only 17% are negative.
+
+
 
 ## Summary 
 
