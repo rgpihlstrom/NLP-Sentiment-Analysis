@@ -90,13 +90,13 @@ Based on these findings, we will make recommendations to the R&D teams for futur
 ## Summary 
 
 - <b><ins>Brand In Good Health! </ins></b>
-- Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
-
+Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
+ 
 - <b><ins>iPad2 Launch @ SXSW and selling at Conference is a SUCCESS! </ins></b>
-- Consumers received the launching of the Ipad2 with open arms and excitement and the addition of the Pop-up store was well recieved.
+Consumers received the launching of the Ipad2 with open arms and excitement and the addition of the Pop-up store was well recieved.
 
 - <b><ins>Product Reviews Mostly Good! </ins></b>
-- Product reviews were mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
+Product reviews were mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
 
 ## Next Steps
 - <b><ins>Broaden our Data Beyond Conference Goers and Twitter Users</ins></b>
