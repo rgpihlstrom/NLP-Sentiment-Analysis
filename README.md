@@ -59,8 +59,10 @@ Overall, the brand seems to be being reflected in a positive tone.
 
 ### Observations:
 - Building on above, the reception of the iPad2 along with launching at the conference were received in a mostly positive manner.  90% of the tweets containing “iPad2” or “Store” within the tweet were deemed positive while only 10% were deemed negative.
-***Positive Word Cloud***
+<br>
+- <b><ins>Positive Word Cloud</ins></b>
 Words like “launch”, “new”,” smart” were used in reference to the acceptance of selling the first iPad2’s at the conference at the pop-up store
+<br>
 ***Negative Word Cloud***
 Words like “line”, “camera”,” out” were used in reference to the long lines at the pop-up store, along with some early feedback that the camera on the iPad2 may not be at a quality level expected by consumers.  Also “out” was used in reference to the temporary store running out of inventory.
 
