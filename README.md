@@ -47,14 +47,15 @@ As stated above the goal of the project was three-fold.  I have outlined and sum
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" width="800" height="300" />
 
 ### Observations:
-- <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand was the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands/ topics.  Notice the Apple brand and or an Apple products are being mentioned at a higher count than other trending brands/topics.
+- <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand was the leading brand name being included within a tweet.  It is being mentioned more than <b><ins>3X</ins></b> the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands/ topics.  Notice the Apple brand and or an Apple products are being mentioned at a higher count than other trending brands/topics.
 
 - <b><ins>Sentiment Splits</ins></b> – From table 3 you can see how these tweets are classified.  As shown, <b><ins>83%</ins></b> of the tweets containing/ pertaining to an Apple product are positive while only <b><ins>17%</ins></b> are negative.
 
-- <b><ins>Key Tweets</ins></b> – As shown, you can see the general types of positive tweets regarding the brand.  However, if you review the negative sentiment tweets, a lot of the negative thoughts are coming from panelist presenting at the conference, which is causes retweets vs. genuinely organic negative sentiments toward the brand.
+- <b><ins>Key Tweets</ins></b> – As shown, the positive tweets regarding the brand are general in nature.  However, many of the negative tweets appear to be incited by panelist presenting at the conference vs. genuinely organic negative sentiments toward the brand.
+<br>
 Overall, the brand seems to be being reflected in a positive tone.
 
-<h2>2. Reception of iPad2, Feedback on Launching at SXSW:</h2>
+<h2>2. Reception of iPad2, Feedback on Launching and Selling at SXSW:</h2>
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IpadLaunch.png" width="800" height="300" />
 
 ### Observations:
