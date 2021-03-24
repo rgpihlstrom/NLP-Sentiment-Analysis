@@ -47,7 +47,7 @@ As stated above the goal of the project was three-fold.  I have outlined and sum
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" width="800" height="300" />
 
 ### Observations:
-- <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands and as you can see the Apple brand and or an Apple product is being mentioned at a higher rate than other trending topics.
+- <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand names being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands.  Notice  the Apple brand and or an Apple products are being mentioned at a higher count than other trending brands/topics.
 
 - <b><ins>Sentiment Splits</ins></b> – From table 3 you can see how these tweets are classified.  As shown, 83% of the tweets containing/ pertaining to an Apple product are positive while only 17% are negative.
 
@@ -68,32 +68,32 @@ Words like “line”, “camera”,” out” were used in reference to the lon
 
 
 <h2>3. Consumer Feedback on Apple Products/ Opportunities for Innovation:</h2>
-To better understand where potential areas for consumer feedback would be warranted, I first graphed each product and associated sentiments by product or brand.  
+To begin my exploration of gathering consumer feedback, I first needed to review the product landscape and how those products may or may not be receiving feedback.  I did so by plotting each product and associated sentiments.  
 
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBatteryOverview.png" width="800" height="300" />
 
-As you can see nothing stands out as too peculiar except the iPhone.  As you can see the iPhone is receiving almost 50% as many negative sentiments as positive sentiments.  Furthermore, in table 2 you can see that it relative percentage of negative tweets to total tweets is more than twice that of the other Apple products.
+As you can see nothing stands out as too peculiar except the iPhone.  The iPhone is receiving negative sentiments at half the rate of positive tweets.  Upon further analysis,  in table 2, you can see that its relative percentage of negative tweets to total tweets is more than twice that of the other Apple products.
 <br>
 
-Based on this analysis I decided to do a deep dive on what is driving the higher-than-expected negative sentiments.  Shown below is a summary of that analysis.
+Based on these findings I decided to do a deep dive on what is driving the higher-than-expected negative sentiments.  
+<br>
+Shown below is a summary of results derived from a deep dive on the iPhone tweets.
+
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBattery.png" width="800" height="300" />
 
 ### Observations:
-- <b><ins>Word Cloud</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand is the leading brand name being included within a tweet.  It is being mentioned more than 3X the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands and as you can see the Apple brand and or an Apple product is being mentioned at a higher rate than other trending topics.
-
-- <b><ins>Key Tweets</ins></b> – From table 3 you can see how these tweets are classified.  As shown, 83% of the tweets containing/ pertaining to an Apple product are positive while only 17% are negative.
-
-
-
+- <b><ins>Word Cloud</ins></b> – Outside of the word “iPhone”, the next biggest word is “battery”.
+- <b><ins>Key Tweets</ins></b> – Shown are just a few of the tweets mentioning the life of the iPhone battery as a major disappoint for consumers
+Based on these findings, we will make recommendations to the R&D teams for future develop!
 ## Summary 
 
-- **Brand In Good Health!
+- <b><ins>Brand In Good Health! </ins></b>
 ** - Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
 
-- **iPad2 Launch @ SXSW is a SUCCESS!
+- <b><ins>iPad2 Launch @ SXSW and selling at Conference is a SUCCESS! </ins></b>
 ** - Consumers received the launching of the Ipad2 with open arms and excitement
 
-- **Product Reviews Mostly Good!
+- <b><ins>Product Reviews Mostly Good! </ins></b>
 ** - Product reviews mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
 
 ## Next Steps
@@ -113,3 +113,4 @@ Based on this analysis I decided to do a deep dive on what is driving the higher
 See the full analysis in the [Jupyter Notebooks](folder) or review our <a href="https://github.com/rgpihlstrom/Project3/blob/main/Presentation.pdf">Presentation</a>.
 
 For additional info, contact me here: [ Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
+
