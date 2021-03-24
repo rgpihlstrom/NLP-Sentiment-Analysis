@@ -10,7 +10,7 @@ This project uses a Naive Bayes classifier & supervised learning method to class
 Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background1.png" width="800" height="300" />
 
-Its March 5, 2011.  It's also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightest from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform., the iPad2.  Apple is coming off a stream of successful launches and just launch its iPad1 approximately one year ago.  The Apple team is looking to outdo its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2.  In addition to surprising the tech world by launching the iPad2 at the same time as the SXSW event Apple decided to create a temporary store just to sell the new iPad2's close to the event.  The creation of a temporary store was seen as  risky but exciting by the Apple team which, if successful, could be used again for future launches.
+Its March 5, 2011.  It's also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightest from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform., the iPad2.  Apple is coming off a stream of successful launches and just launch its iPad1 approximately one year ago.  The Apple team is looking to outdo its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2.  In addition to surprising the tech world by launching the iPad2 at the same time as the SXSW event Apple decided to create a temporary store just to sell the new iPad2's close to the event.  The creation of a temporary store was seen as risky but exciting by the Apple team which, if successful, could be used again for future launches.
 
 ## Business Problem
 Given the above context the Brand Manager at Apple is interested in the following:
@@ -88,21 +88,20 @@ Based on these findings, we will make recommendations to the R&D teams for futur
 ## Summary 
 
 - <b><ins>Brand In Good Health! </ins></b>
-** - Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
+- Given the above scores the brand health seems to be good with SXSW attendees that use twitter.
 
 - <b><ins>iPad2 Launch @ SXSW and selling at Conference is a SUCCESS! </ins></b>
-** - Consumers received the launching of the Ipad2 with open arms and excitement
+- Consumers received the launching of the Ipad2 with open arms and excitement
 
-- <b><ins>Product Reviews Mostly Good! </ins></b>
-** - Product reviews mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
+Product Reviews Mostly Good! </ins></b>
+- Product reviews mostly good with a few areas we can take back to R&D for review, especially in regard to the iPhone battery.
 
 ## Next Steps
-
-- **Broaden Dataset**
-** - Broaden our data set, beyond conference goers and twitter users.  This project was solely focused on the Twitter data captured from SXSW conference attendees.  There is an opportunity to scape product sites and use that data to drive business value.
-- **Examine Additional Classifiers/ Create Opportunity for Stacking Classifiers**
+- <b><ins>Broaden our Data Beyond Conference Goers and Twitter Users</ins></b>
+  This project was solely focused on the Twitter data captured from SXSW conference attendees.  There is an opportunity to scape product sites and use that data to drive business value.
+- <b><ins>Examine Additional Classifiers/ Create Opportunity for Stacking Classifiers</ins></b>
 ** - In this project I focused on Naive Bayer classifiers, but there are additional classifiers that work well on text data such as Random Forest.  Creating additional models and combining the models to make predictions can improve accuracy.
-- **Finer Classification**
+- <b><ins>Finer Classification Models</ins></b>
 ** - Look to create classifiers that can accurately classify Negative, Neutral, Positive tweets vs just Positive and Negative in this project.  Potentially perform Topic Modeling.
 
 
@@ -113,4 +112,3 @@ Based on these findings, we will make recommendations to the R&D teams for futur
 See the full analysis in the [Jupyter Notebooks](folder) or review our <a href="https://github.com/rgpihlstrom/Project3/blob/main/Presentation.pdf">Presentation</a>.
 
 For additional info, contact me here: [ Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
-
