@@ -38,7 +38,9 @@ After several iterations, and a thorough cleansing of the data the trained model
 
 <img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Testscores1.png" width="800" height="300" />
 <br>
+
 ## Business Results/ Recommendations
+<br>
 As stated above the goal of the project was three-fold.  I have outlined and summarized the results of each area of interest below:
 
 <h3>1. Overall Brand Sentiment Scores</h3>
