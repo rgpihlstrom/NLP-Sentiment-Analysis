@@ -36,7 +36,7 @@ This project uses the Crisp DM methodology to generate and optimize the publishe
 ## Model Results (86% Detection)
 After several iterations, and a thorough cleansing of the data the trained model obtained a training score of 87% and a testing score of <b><ins>(86%)</ins></b>.  This tight span is required to ensure the model was not overfitting and enable the opportunity to reuse the model on future twitter data captured from SXSW attendees.
 
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Testscores1.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Testscores1.png"/>
 <br>
 
 ## Business Results/ Recommendations
@@ -44,7 +44,7 @@ After several iterations, and a thorough cleansing of the data the trained model
 As stated above the goal of the project was three-fold.  I have outlined and summarized the results of each area of interest below:
 
 <h3>1. Overall Brand Sentiment Scores</h3>
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/BrandSummary.png" />
 
 ### Observations:
 - <b><ins>Generating Buzz</ins></b> – See Tbl1. As evidenced in table 1, which shows the frequency of brand mentions, the Apple brand was the leading brand name being included within a tweet.  It is being mentioned more than <b><ins>3X</ins></b> the second most mentioned brand google.   Table 2 shows counts of hashtags included in tweets vs. other brands/ topics.  Notice the Apple brand and or an Apple products are being mentioned at a higher count than other trending brands/topics.
@@ -56,7 +56,7 @@ As stated above the goal of the project was three-fold.  I have outlined and sum
 Overall, the brand seems to be being reflected in a positive tone.
 
 <h2>2. Reception of iPad2, Feedback on Launching and Selling at SXSW:</h2>
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IpadLaunch.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IpadLaunch.png" />
 
 ### Observations:
 Building on above, the reception of the iPad2 along with launching and selling products at the conference were received in a mostly positive manner.  <b><ins>90%</ins></b> of the tweets containing “iPad2” or “Store” within the tweet were deemed positive while only <b><ins>10%</ins></b> were deemed negative.
@@ -81,7 +81,7 @@ Based on these findings I decided to do a deep dive on what is driving the highe
 <br>
 Shown below is a summary of results derived from a deep dive on the iPhone tweets.
 
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBattery.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBattery.png" />
 
 ### Observations:
 - <b><ins>Word Cloud</ins></b> – Outside of the word “iPhone”, the next biggest word is “battery”.
