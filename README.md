@@ -8,7 +8,7 @@ This project uses a Naive Bayes classifier & supervised learning methods to clas
 
 ## Project Context
 Below is a timeline of actual events that influenced the dynamics of the business problem outline below.   
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background1.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Background1.png"/>
 
 Its March 5, 2011.  It is also one week before the kickoff of the big SXSW conference.  The SXSW conference is a major deal in the tech, film, and entertainment industries bringing together the best and the brightest from all respective fields.  This year is significant as Apple has decided to surprise the tech world by using the event to launch its new iteration of its iPad platform, the iPad2.  Apple is coming off a stream of successful launches and just launched its iPad1 approximately one year ago.  The Apple team is looking to outdo its previous launches and the Apple Brand Manager is looking to make a splash with the launch of the iPad2.  In addition to surprising the tech world by launching the iPad2, at the same time as the SXSW event, Apple decided to create a temporary "Pop-up" store to sell the new iPad2's close to the event.  The idea and impromptu creation of the temporary store was seen as risky but exciting, and if successful, could be used again for future launches.
 
