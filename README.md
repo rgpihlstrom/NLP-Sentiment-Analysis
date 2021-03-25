@@ -1,6 +1,6 @@
 **Author**:[Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
 
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Title.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/Title.png"/>
 
 ## Overview: 86% Accuracy!
 
