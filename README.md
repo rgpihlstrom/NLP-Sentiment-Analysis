@@ -72,7 +72,7 @@ Building on above, the reception of the iPad2 along with launching and selling p
 <h2>3. Consumer Feedback on Apple Products/ Opportunities for Innovation:</h2>
 To begin my exploration of gathering consumer feedback, I first needed to review the product landscape and how the portfolio of products may or may not be receiving feedback.  I did so by plotting each product and associated sentiments.  
 
-<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBatteryOverview.png" width="800" height="300" />
+<img src="https://github.com/rgpihlstrom/Project4/blob/main/images/IphoneBatteryOverview.png" />
 
 As you can see nothing stands out as too peculiar except the iPhone.  The iPhone is receiving negative sentiments at half the rate of positive tweets.  Compared to other Apple products this rate seems high.  Upon further analysis,  in table 2, you can see that its relative percentage of negative tweets received to its total tweets received is more than twice that of the other Apple products.
 <br>
